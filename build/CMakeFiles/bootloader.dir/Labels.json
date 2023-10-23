@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/ctorrez/Documentos/Rommel/workspaceRPI1/restful_server/build/CMakeFiles/bootloader"
+		},
+		{
+			"file" : "/home/ctorrez/Documentos/Rommel/workspaceRPI1/restful_server/build/CMakeFiles/bootloader.rule"
+		},
+		{
+			"file" : "/home/ctorrez/Documentos/Rommel/workspaceRPI1/restful_server/build/CMakeFiles/bootloader-complete.rule"
+		},
+		{
+			"file" : "/home/ctorrez/Documentos/Rommel/workspaceRPI1/restful_server/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule"
+		},
+		{
+			"file" : "/home/ctorrez/Documentos/Rommel/workspaceRPI1/restful_server/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule"
+		},
+		{
+			"file" : "/home/ctorrez/Documentos/Rommel/workspaceRPI1/restful_server/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule"
+		},
+		{
+			"file" : "/home/ctorrez/Documentos/Rommel/workspaceRPI1/restful_server/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule"
+		},
+		{
+			"file" : "/home/ctorrez/Documentos/Rommel/workspaceRPI1/restful_server/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule"
+		},
+		{
+			"file" : "/home/ctorrez/Documentos/Rommel/workspaceRPI1/restful_server/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule"
+		},
+		{
+			"file" : "/home/ctorrez/Documentos/Rommel/workspaceRPI1/restful_server/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"bootloader"
+		],
+		"name" : "bootloader"
+	}
+}
